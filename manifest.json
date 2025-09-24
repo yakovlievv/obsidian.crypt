@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-crypt",
+  "name": "obsidian-crypt",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Use obsidian with gocryptfs to encrypt your obsidian files.",
+  "author": "yakovlievv",
+  "authorUrl": "https://obsidian.md",
+  "fundingUrl": "https://obsidian.md/pricing",
+  "isDesktopOnly": false
+}
